@@ -14,6 +14,7 @@ public class App
         System.out.println( "Hello World!" );
         int x = 2;
         String s = "abc";
+        System.out.println("String is : " + s + " and int is : "+ x);
         
     }
 }
