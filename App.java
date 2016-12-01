@@ -12,5 +12,7 @@ public class App
         
         System.out.println( "New code added" );
         System.out.println( "Hello World!" );
+        int x = 2;
+        
     }
 }
